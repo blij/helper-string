@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Odo Veiz",
+            "email": "odoveiz@protonmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Blij\\HelperString\\": "src/"
+        }
+    },
+    "license": "GPL-3.0",
+    "name": "blij/helper-string",
+    "require": {
+       "php": ">=5.4.0"
+    },
+    "type": "library"
+}
